@@ -47,9 +47,9 @@
 Точка (1.5, -0.5) - не должна принадлежать области
 
 Вывести результаты тестирования
-# 2.Блок схема
+# Блок схема
 <img width="326" height="632" alt="image" src="https://github.com/user-attachments/assets/7172256e-a8e0-4e8f-a922-9cdaff810db5" />
-
+# 2.Реализация программы
 ~~~
 #include <stdio.h>
 #include <locale.h>
