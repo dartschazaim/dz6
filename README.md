@@ -49,6 +49,7 @@
 Вывести результаты тестирования
 # Блок схема
 <img width="326" height="632" alt="image" src="https://github.com/user-attachments/assets/7172256e-a8e0-4e8f-a922-9cdaff810db5" />
+
 # 2. Реализация программы
 
 
